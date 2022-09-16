@@ -13,4 +13,5 @@ Contact
 Email: so.sahin15@gmail.com
 Github: @ismailsahin98
 LinkedIn: linkedin.com/in/ismail-şahin-19283a20a
-CV: shorturl.at/KS378 
+CV: shorturl.at/KS378
+
